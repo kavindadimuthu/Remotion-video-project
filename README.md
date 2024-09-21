@@ -1,4 +1,5 @@
 # Remotion video
+This is my first video project done using Remotion. In here, I created a simple video with Remotion
 
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
