@@ -1,5 +1,5 @@
 import { Composition } from "remotion";
-import { MyComposition } from "./Composition";
+import MyComposition from "./Composition";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -7,7 +7,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="MyComp"
         component={MyComposition}
-        durationInFrames={60}
+        durationInFrames={300}
         fps={30}
         width={1280}
         height={720}
